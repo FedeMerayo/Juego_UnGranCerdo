@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1656978250 source:c:\users\fmmer\desktop\tp integrador\ungrancerdo\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"Funciones.h"
+	"rlutil.h"
+
+1654917437 source:c:\users\fmmer\desktop\tp integrador\ungrancerdo\dados.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+
+1656978174 source:c:\users\fmmer\desktop\tp integrador\ungrancerdo\otrasfunciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"Funciones.h"
+	"rlutil.h"
+
+1656970911 c:\users\fmmer\desktop\tp integrador\ungrancerdo\funciones.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"rlutil.h"
+
+1655953611 source:c:\users\fmmer\desktop\tp integrador\ungrancerdo\funcion2dados.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"Funciones.h"
+	"rlutil.h"
+
+1655000751 c:\users\fmmer\desktop\tp integrador\ungrancerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656977677 source:c:\users\fmmer\desktop\tp integrador\ungrancerdo\funcionesdados.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"Funciones.h"
+	"rlutil.h"
+
+1656977677 source:c:\users\fmmer\desktop\facu\primer cuatrimestre\laboratorio i\tp integrador\ungrancerdo\funcionesdados.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"Funciones.h"
+	"rlutil.h"
+
+1656970911 c:\users\fmmer\desktop\facu\primer cuatrimestre\laboratorio i\tp integrador\ungrancerdo\funciones.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"rlutil.h"
+
+1655000751 c:\users\fmmer\desktop\facu\primer cuatrimestre\laboratorio i\tp integrador\ungrancerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656978408 source:c:\users\fmmer\desktop\facu\primer cuatrimestre\laboratorio i\tp integrador\ungrancerdo\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"Funciones.h"
+	"rlutil.h"
+
+1656978174 source:c:\users\fmmer\desktop\facu\primer cuatrimestre\laboratorio i\tp integrador\ungrancerdo\otrasfunciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<cctype>
+	<stdlib.h>
+	"Funciones.h"
+	"rlutil.h"
+
